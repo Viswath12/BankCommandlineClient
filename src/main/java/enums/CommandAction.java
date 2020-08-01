@@ -1,4 +1,4 @@
-package Enum;
+package enums;
 
 import org.apache.commons.lang3.StringUtils;
 
