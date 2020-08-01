@@ -14,9 +14,9 @@ import service.AccountService;
  * 
  * Main class of this application
  */
-public class CommandCliMain {
+public class CommandlineClientMain {
   
-  private static final Logger LOGGER = LoggerFactory.getLogger(CommandCliMain.class);
+  private static final Logger LOGGER = LoggerFactory.getLogger(CommandlineClientMain.class);
   
   private static final AccountService ACCOUNT_SERVICE = AccountService.getInstance();
   

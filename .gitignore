@@ -1,0 +1,2 @@
+# to ignore target folder and its contents in commits
+*/target/**
