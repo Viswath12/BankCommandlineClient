@@ -3,9 +3,9 @@ A sample retail bank command line application to simulate interaction with a ret
 
 Assumptions and Restrictions
 
-1. The application is command line application and accepts inputs from standard input only. No other form of input will be accepted (like REST call etc).
+1. The application is command line application and accepts inputs only from standard input. No other form of input will be accepted (like REST call etc).
 2. The application only supports the mentioned commands (with the exception of additional "exit" command). Adding support to new commands involves code change.
-3. The application produces some additional outputs from the ones stated in question, also the output format might be differ slightly, but all the required output are displayed.
+3. The application produces some additional outputs from the ones stated in question. Also the output format might differ slightly, but all the required output are displayed.
 
 Since this is a basic command line application and supports only basic opration, the below are the some of the important restrictions.
 
